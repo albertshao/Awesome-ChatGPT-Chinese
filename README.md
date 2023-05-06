@@ -9,15 +9,17 @@ ChatGPT工具和资料汇总学习，持续更新......
 
 Ready AI Player 这是一个分享AI工具、新闻、应用以及个人见解的地方 在这里 大家一起学习AI 迎接AI  拥抱AI 走向未来
 
-诚邀您加入 ReadyAIPlayer，与AI领域专家及来自不同行业的ChatGPT热衷者共同探讨、碰撞思想！无论您是行业专家还是技术爱好者，我们都热烈欢迎您的加入！
+诚邀您加入 ReadyAIPlayer，与AI领域专家及来自不同行业的ChatGPT热衷者共同探讨、碰撞思想！无论您是行业专家还是技术爱好者，我们都热烈欢迎您的加入！ <br>
 
-【添加好友（备注：GitHub-加群】
-<img src="Picture/wechat-person.jpeg" width="300" />
-
-【关注视频号】
+【关注视频号】 <br>
 <img src="Picture/wechat-channel.jpeg" width="300"/>
 
 ## ChatGPT全面工具箱：在任何地方使用 ChatGPT
+
+### 提示工程
+- [提示工程指南]（https://www.promptingguide.ai/zh)： 提示工程指南
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): Awesome ChatGPT Prompts
+
 
 ### 浏览器扩充套件
 
