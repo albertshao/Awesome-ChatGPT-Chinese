@@ -11,16 +11,11 @@ Ready AI Player 这是一个分享AI工具、新闻、应用以及个人见解�
 
 诚邀您加入 ReadyAIPlayer，与AI领域专家及来自不同行业的ChatGPT热衷者共同探讨、碰撞思想！无论您是行业专家还是技术爱好者，我们都热烈欢迎您的加入！
 
+### 添加好友（备注：GitHub-加群）
+<img src="Picture/wechat-person.jpeg" width="300" />
 
-| 加个人（备注：加群）                                           视频号                            |加入星球(更多优质内容)                                  |    
-|--------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| <img src="Picture/wechat-channel.jpeg" width="300" /> | <img src="Picture/wechat-channel.jpg" width="200"/> |<img src="Picture/训练营优惠券.jpeg" width="250" /> |
-
-[//]: # (| 二维码加群                                       | ReadyAIPlayer                                | 拉你入群&#40;备注github&#41;                            )
-
-[//]: # (|----------------------------------------------|---------------------------------------------------|---------------------------------------------------| )
-
-[//]: # (| <img src="Picture/Chat8.jpeg" width="250" /> | <img src="Picture/qrcode_MLIOT.jpg" width="250"/> | <img src="Picture/Yuan.jpeg" width="200"/> |)
+### 关注视频号
+<img src="Picture/wechat-channel.jpg" width="300"/>
 
 ## ChatGPT全面工具箱：在任何地方使用 ChatGPT
 
