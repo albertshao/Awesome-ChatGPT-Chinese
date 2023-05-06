@@ -17,7 +17,7 @@ Ready AI Player 这是一个分享AI工具、新闻、应用以及个人见解�
 ## ChatGPT全面工具箱：在任何地方使用 ChatGPT
 
 ### 提示工程
-- [提示工程指南]（https://www.promptingguide.ai/zh)： 提示工程指南
+- [提示工程指南](https://www.promptingguide.ai/zh):提示工程指南
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): Awesome ChatGPT Prompts
 
 
